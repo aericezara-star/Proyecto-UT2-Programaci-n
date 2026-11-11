@@ -1,1 +1,2 @@
 # Proyecto-UT2-Programaci-n
+Este proyecto trata sobre la gestión de una discoteca llamada DiscoParty, el programa nos ayuda en varios parámetros como para calcular las bebidas que se van a consumir ya sean cubatas cervezas o chupitos, que tipo de entradas se desean y cuantas unidades de estas, dependiendo de la cantidad de entradas que se adquieran contaran con un descuento del 10 porciento y por ultimo esta realiza un resumen de toda la compra que has realizado. 
